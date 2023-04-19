@@ -6,6 +6,12 @@
 
 ### Challenge 01
 
-Location: `codechallenges/linkedlist/LinkedListChallenges`
+Location: [Array Reverso](/java/datastructures/)
 
-Method: `linkedListChallenge06()`
+Method: `ReversoArrao`
+
+### Challenge 02
+
+Location: [Array Insert](/java/datastructures/arrayInsert/README.md)
+
+Method: `ReversoArrao`

@@ -12,4 +12,6 @@ Includes - O(n) O(1)
 toString - O(n) O(n)
 
 ## Solution
-See code in [Code Folder](/LinkedList/)
+See code in [Code Folder](/LinkedList/LinkedList.java)
+
+Se

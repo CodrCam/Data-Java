@@ -3,7 +3,7 @@
 Create a LinkedList class with a Node class. The LinkedList class should have methods to insert a node at the head, check if a value exists in the list, and return a string representation of the list.
 
 ## Whiteboard Process
-![wb5](/resources/WB5.png)
+![wb5](/java/datastructures/LinkedList/src/main/resources/wb6_1.jpg)
 
 ## Approach & Efficiency
 
